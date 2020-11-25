@@ -95,5 +95,16 @@
     transform: scaleX(1);
     
   }
+  @media (min-width: 576px) { 
+    .Ham_container{
+      display: none;
+    }
+  }
+  @media (min-width: 768px) { 
+    .Ham_container{
+      display: none;
+    }
+  
+  }
  
   
