@@ -1,0 +1,9 @@
+:root{
+    --primary: #ABEBC6;
+}
+
+
+
+::-webkit-scrollbar{
+    display: none;
+}
